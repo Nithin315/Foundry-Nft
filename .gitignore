@@ -14,4 +14,4 @@ docs/
 .env
 broadcast/
 
-test/Integration/TestBasicNft.t.sol
+test/Integration/
